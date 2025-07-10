@@ -31,7 +31,6 @@ This section is constantly updated, I am building my future in cybersecurity com
 - Threat Detection & Incident Response (SOC)
 - SQL & Python for Automation
 - Building cybersecurity labs with **TryHackMe** & **Blue Team Labs**
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3562286" style='border:none;'></iframe>
 
 ## Experience 🚀
 
