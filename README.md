@@ -49,7 +49,7 @@ This section is constantly updated, I am building my future in cybersecurity com
 
 ## How to Reach Me 📫 
 
-- 📧 Email: danielhunterjc@gmail.com 
+- 📧 Email: ceo@cunsecurity.com 
 - 💼 LinkedIn: [linkedin.com/in/danielcunjama](https://www.linkedin.com)
 
 ## Fun Fact 🧠 
