@@ -1,6 +1,6 @@
 # Hello, everyone. 👽🖖
 
-My name is Daniel, I'm a young technology enthusiast. I'm a biomedical engineer by profession. I'm currently pursuing **two postgraduate degrees**: **cybersecurity** and **digital law**.
+My name is Daniel, I'm a young technology enthusiast. I'm a biomedical engineer by profession. I'm currently pursuing **two postgraduate** degrees: **cybersecurity** and **digital law**.
 
 ## Tech Stack 🔧
 
@@ -23,7 +23,7 @@ This section is constantly updated, I am building my future in cybersecurity com
 **Cybersecurity Tools:**
 
 * SIEM Splunk
-* Wireshark, Nmap (yet)
+* Wireshark, Nmap... yet
 
 ## Currently Learning 🧩
 
