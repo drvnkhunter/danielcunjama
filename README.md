@@ -13,6 +13,7 @@ This section is constantly updated, I am building my future in cybersecurity com
 * SQL, MySQL
 * HTML, CSS
 * PHP, phpMyAdmin
+* Bash/Shell Scripting 
 
 **Frameworks:**
 
