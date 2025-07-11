@@ -23,7 +23,7 @@ This section is constantly updated, I am building my future in cybersecurity com
 **Cybersecurity Tools:**
 
 * SIEM Splunk
-* Wireshark, Nmap... yet
+* Wireshark, Snort, Nmap... yet
 
 ## Currently Learning 🧩
 
