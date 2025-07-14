@@ -51,7 +51,7 @@ This section is constantly updated, I am building my future in cybersecurity com
 ## How to Reach Me 📫 
 
 - 📧 Email: ceo@cunsecurity.com 
-- 💼 LinkedIn: [frandanielcunjama](https://www.linkedin.com/in/frandanielcunjama/))
+- 💼 LinkedIn: [frandanielcunjama](https://www.linkedin.com/in/frandanielcunjama/)
 - 👽 TryHackMe: [drvnkhunter](https://tryhackme.com/p/drvnkhunter)
 
 ## Fun Fact 🧠 
