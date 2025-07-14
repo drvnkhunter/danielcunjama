@@ -31,6 +31,7 @@ This section is constantly updated, I am building my future in cybersecurity com
 - Master’s in Digital Law
 - Threat Detection & Incident Response (SOC)
 - SQL & Python for Automation
+- Machine Learning and Data Science
 - Building cybersecurity labs with **TryHackMe** & **Blue Team Labs**
 
 ## Experience 🚀
