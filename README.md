@@ -53,6 +53,7 @@ This section is constantly updated, I am building my future in cybersecurity com
 - 📧 Email: ceo@cunsecurity.com 
 - 💼 LinkedIn: [frandanielcunjama](https://www.linkedin.com/in/frandanielcunjama/)
 - 👽 TryHackMe: [drvnkhunter](https://tryhackme.com/p/drvnkhunter)
+- 💻 YouTube: [dr.hunter](https://www.youtube.com/@drhunterciber)
 
 ## Fun Fact 🧠 
 
