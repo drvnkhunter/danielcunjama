@@ -45,7 +45,7 @@ This section is constantly updated, I am building my future in cybersecurity com
 ## Languages 🌍
 * **Spanish** - Native
 * **English** - Intermediate (Technical & Cybersecurity Focus)
-* **French** - Basic (Just for fun)
+* **German** - Basic (Just for fun)
 
 ## How to Reach Me 📫 
 
